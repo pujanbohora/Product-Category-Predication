@@ -1,0 +1,16 @@
+1) Install the prerequisites in python. 
+you can install them individually or
+"pip install -r requirements.txt" command in root of your project will install everything in requirements.txt file.
+2) Load sample.json in same folder with Hemanth.ipynb. if there is a change in directory modify it in Hemanth.ipynb.
+2) Run the Hemanth.ipynb in a jypyter notebook.
+3) The notebook is in sequence as 
+
+
+1) import the prerequisites in python
+2) Load sample.json in same folder with Hemanth.ipynb
+3) Preprocess the data.
+4) Do some Exploratory Data Analysis.
+5) Feature Engineer to find good features for the model.
+6) compile and train the convolution model.
+7) Predict and evalaute the model.
+
