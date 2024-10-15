@@ -42,9 +42,8 @@ This project aims to predict the categories of products based on their features 
     pip install -r requirements.txt
 
 4. Run the FastAPI server:
-    uvicorn main:app --reload
-
-
+   ```bash
+   uvicorn main:app --reload
 
 ### API Endpoints
 
